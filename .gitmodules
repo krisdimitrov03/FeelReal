@@ -1,6 +1,6 @@
 [submodule "feelreal-frontend"]
-    path = feelreal-frontend
-    url = https://github.com/krisdimitrov03/feelreal-frontend.git
+	path = feelreal-frontend
+	url = https://github.com/krisdimitrov03/feelreal-frontend.git
 [submodule "feelreal-backend"]
-    path = feelreal-backend
-    url = https://github.com/krisdimitrov03/feelreal-backend.git
+	path = feelreal-backend
+	url = https://github.com/krisdimitrov03/feelreal-backend.git
