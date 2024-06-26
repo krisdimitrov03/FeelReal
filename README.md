@@ -6,6 +6,10 @@ Welcome to **FeelReal** – the app that's more attentive to your wellness than 
 
 **FeelReal** is a digital mental health and wellness platform designed to help you manage your daily wellness through personalized plans and interactive tools. Whether you're looking to meditate, exercise, or just make sure you're drinking enough water, we're here to support you every step of the way.
 
+## Documentation `BETA`
+- [API Documentation](https://documenter.getpostman.com/view/16524194/2sA3JRZz5k).
+- [Database diagram](https://drive.google.com/file/d/1UQEq-mHYjrh8ZtGj-szfi07_cNcH3dAn/view?usp=sharing).
+
 ## Features
 
 - **Customizable Wellness Plans** - tailor-made plans to help you sleep better, eat healthier, and exercise right. Like a personal trainer, but less shouty.
